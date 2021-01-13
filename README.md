@@ -38,8 +38,6 @@
 
 This game was developed for academic purposes at  [Uniamérica](https://uniamerica.br/) with the following technologies: 
 
--  [C][c]
--  [Git][git]
 -  [Dev-C++][devc]
 -  [VS Code][vc] 
 
@@ -63,7 +61,5 @@ This project is under the MIT license. See the [LICENSE](https://github.com/dion
 Made with :heartpulse: by Dionei Bianchati :wave: [Get in touch!](https://www.linkedin.com/in/dionbiancha/)
 
 [vc]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[c]: https://devdocs.io/c/
 [devc]: https://pt.wikipedia.org/wiki/Dev-C%2B%2B
 
