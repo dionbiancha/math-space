@@ -1,4 +1,6 @@
 <h1 align="center">
+    <img alt="Ladding page" src="https://res.cloudinary.com/dionbiancha/image/upload/v1610804085/github/favicon_bhezhh.ico" />
+    <br>
     Math Space
 </h1>
 
